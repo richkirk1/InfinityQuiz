@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InfinityQuiz</string>
+    <string name="submit">SUBMIT</string>
+    <string name="next">GO TO NEXT QUESTION</string>
+</resources>
